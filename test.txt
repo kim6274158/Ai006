@@ -1,0 +1,5 @@
+1. branch 학습
+2. 티퍼블머신 인공지능 모델 만들기
+    localhost/Aitest.html
+    c:/xampp/htdocs
+    
